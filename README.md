@@ -1,2 +1,2 @@
-# Trabalho_Pr-tico02_An-liseDeAlgoritmos
+# Trabalho_Pratico02_AnaliseDeAlgoritmos
 Trabalho_prático02
